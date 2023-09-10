@@ -7,7 +7,7 @@
 ***
 > ### 📚`Homework`
 + #### *Week1*
-
++ #### 1. [HW0](https://youtu.be/6AAzey3okmA)
 + #### *Week2*
   + ####
 + #### *Week3*

@@ -9,6 +9,7 @@
 + #### *Week1*
 + #### 1. [HW0](https://youtu.be/6AAzey3okmA)
 + #### *Week2*
++ ![Homework 1/ERD.jpg]()
   + ####
 + #### *Week3*
   + #### 

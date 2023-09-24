@@ -9,7 +9,7 @@
 + #### *Week1*
 + #### 1. [HW0](https://youtu.be/6AAzey3okmA)
 + #### *Week2*
-+ ![Homework1]("")
++ ![HW1 ERD Diagram](https://cacoo.com/diagrams/v3GioA4umVEDR2On/A3E5C)
   + ####
 + #### *Week3*
   + #### 

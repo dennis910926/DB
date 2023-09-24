@@ -9,7 +9,7 @@
 + #### *Week1*
 + #### 1. [HW0](https://youtu.be/6AAzey3okmA)
 + #### *Week2*
-+ [ERD Diagram link](https://drive.google.com/file/d/1JbYSshdN_EOIw7OYstIj8ACMnfmrRzLG/view?usp=drive_link)
++ ![HW1 ERD Digram](https://github.com/Hsing-Tzu/DB/blob/main/Homework%201/ERD.jpg))
 + #### 1. [HW1](https://youtu.be/i0snv1-7T8o)
   + ####
 + #### *Week3*

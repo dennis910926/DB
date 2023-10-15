@@ -16,7 +16,7 @@
   + #### 1. [HW2](https://youtu.be/fhLV2TfxrnQ)
 + #### *Week4*
 + #### *Week5*
-  + #### 
+ + #### 1. [HW3](https://youtu.be/dUrunaJdL0M) 
 + #### *Week6*
 + #### *Week7*
   + #### 

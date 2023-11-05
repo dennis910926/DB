@@ -23,7 +23,7 @@
   + #### 
 + #### *Week8*
 + #### *Week9*
-   + #### 1. [HW5]()
+   + #### 1. [HW5](https://youtu.be/xMnDxuzJdDE)
 + #### *Week10*
 + #### *Week11*
   + #### 
